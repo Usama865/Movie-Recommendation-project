@@ -3,7 +3,8 @@ from Helper_file import movies
 from Helper_file import recommend
 import numpy as np
 import requests as rq
-import json 
+import json
+import nltk 
 
 
 
